@@ -1,4 +1,4 @@
-```markdown
+
 <!-- ========================================================= -->
 <!--                    GITHUB PROFILE README                  -->
 <!-- ========================================================= -->
@@ -279,5 +279,5 @@ I'm always interested in collaborating on
 ⭐️ Thanks for visiting my profile! If you like my work, consider starring my repositories.
 
 </p>
-```
+
 
