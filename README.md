@@ -111,24 +111,7 @@ AI-powered crowd monitoring and risk prediction system for preventing overcrowdi
 
 ---
 
-## 🔐 Credential Stuffing Simulator
 
-Educational cybersecurity project demonstrating credential stuffing attacks and monitoring techniques.
-
-### Features
-
-- Flask Authentication
-- SQLite Database
-- Attack Simulation
-- Dashboard Monitoring
-- Docker Support
-
-**Tech Stack**
-
-`Python` `Flask` `SQLite` `Docker`
-
-🔗 GitHub:
-<!-- UPDATE -->
 
 ---
 
@@ -193,7 +176,6 @@ Educational cybersecurity project demonstrating credential stuffing attacks and 
 
 # 📊 GitHub Statistics
 
-> Replace **YOUR_USERNAME** with your GitHub username.
 
 <p align="center">
 
@@ -205,7 +187,7 @@ Educational cybersecurity project demonstrating credential stuffing attacks and 
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=HimakarPisipati&theme=tokyonight&hide_border=true"/>
 
 </p>
 
