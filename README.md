@@ -3,7 +3,7 @@
 <!--                    GITHUB PROFILE README                  -->
 <!-- ========================================================= -->
 <p align="center">
-  <img src="./cyberpunk-banner.png" width="100%" alt="Himakar Pisipati Cyberpunk Banner">
+  <img src="./banner.png" width="100%" alt="Himakar Pisipati Cyberpunk Banner">
 </p>
 
 <p align="left">
