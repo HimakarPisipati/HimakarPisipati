@@ -2,6 +2,9 @@
 <!-- ========================================================= -->
 <!--                    GITHUB PROFILE README                  -->
 <!-- ========================================================= -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=HimakarPisipati&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="Profile Views" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Himakar Pisipati</h1>
 
@@ -38,82 +41,6 @@ Building software that solves real-world problems with modern technologies.
 
 ---
 
-# 🚀 Featured Projects
-
-## 💰 CampusSpend
-
-A comprehensive student expense management platform designed to help students manage finances effectively.
-
-### Highlights
-
-- AI-powered financial insights
-- Expense & budget management
-- Receipt OCR
-- JWT Authentication
-- Analytics Dashboard
-- Responsive UI
-
-**Tech Stack**
-
-`React` `Vite` `Tailwind CSS` `Node.js` `Express.js` `PostgreSQL` `JWT` `Gemini AI`
-
-🔗 GitHub:
-<!-- UPDATE -->
-
-🌐 Live Demo:
-<!-- UPDATE -->
-
----
-
-## 📄 DocFlow
-
-A modern alternative to iLovePDF that offers multiple document utilities in one platform.
-
-### Features
-
-- Merge PDFs
-- Split PDFs
-- Compress PDFs
-- Convert Documents
-- User-friendly interface
-
-**Tech Stack**
-
-`React` `Node.js` `Express.js`
-
-🔗 GitHub:
-<!-- UPDATE -->
-
-🌐 Live Demo:
-<!-- UPDATE -->
-
----
-
-## 👥 CrowdShield AI
-
-AI-powered crowd monitoring and risk prediction system for preventing overcrowding and stampedes.
-
-### Features
-
-- YOLO Person Detection
-- ByteTrack Tracking
-- Crowd Density Analysis
-- Risk Prediction
-- Heatmaps
-- Live Camera Support
-
-**Tech Stack**
-
-`Python` `OpenCV` `YOLO` `ByteTrack`
-
-🔗 GitHub:
-<!-- UPDATE -->
-
----
-
-
-
----
 
 # 🛠 Tech Stack
 
