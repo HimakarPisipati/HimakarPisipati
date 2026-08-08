@@ -213,7 +213,6 @@ AI-powered crowd monitoring and risk prediction system for preventing overcrowdi
 - Backend Architecture
 - Docker
 - DevOps Fundamentals
-- GATE CSE Preparation
 
 ---
 
@@ -235,16 +234,15 @@ I'm always interested in collaborating on
 <p align="left">
 
 📧 Email:
-<!-- UPDATE -->
+pisipatihimakar@gmail.com
 
 💼 LinkedIn:
-<!-- UPDATE -->
+www.linkedin.com/in/pisipatihimakar
 
 🌐 Portfolio:
-<!-- UPDATE -->
+https://himakarpisipati.github.io/PisipatiHimakar/
 
-📄 Resume:
-<!-- UPDATE -->
+
 
 </p>
 
