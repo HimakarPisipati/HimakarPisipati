@@ -2,6 +2,10 @@
 <!-- ========================================================= -->
 <!--                    GITHUB PROFILE README                  -->
 <!-- ========================================================= -->
+<p align="center">
+  <img src="./cyberpunk-banner.png" width="100%" alt="Himakar Pisipati Cyberpunk Banner">
+</p>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=HimakarPisipati&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="Profile Views" />
 </p>
